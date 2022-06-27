@@ -18,5 +18,5 @@ public class Bankaccount {
 		Entcustomer2.showcustomerDetails();
 		System.out.println("final amount:"+ Entcustomer2.get_final_amount(5,0));
 	}
-
+ 
 }
